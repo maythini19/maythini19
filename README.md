@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Maythini A  
 
-<!--
-**maythini19/maythini19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Computer Science and Engineering (3rd Year)  
+🏫 Asan Memorial College of Engineering and Technology  
 
-Here are some ideas to get you started:
+💻 **Areas of Interest:**  
+- Web Development 🌐  
+- Cyber Security 🔐  
+- UI/UX Design 🎨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Skills:**  
+- Communication | Team Work | Time Management | Problem Solving  
+
+📫 **Contact Me:**  
+- Email: maythinianbu@gmail.com  
+- Phone: 8610524642  
+
+✨ Fun fact: I love creating simple designs with a creative touch!
